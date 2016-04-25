@@ -1,0 +1,7 @@
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnakeTest\bin\Debug\GreedySnakeTest.dll
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnakeTest\bin\Debug\GreedySnakeTest.pdb
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnakeTest\bin\Debug\nunit.framework.dll
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnakeTest\bin\Debug\nunit.framework.xml
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnakeTest\obj\Debug\GreedySnakeTest.csprojResolveAssemblyReference.cache
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnakeTest\obj\Debug\GreedySnakeTest.dll
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnakeTest\obj\Debug\GreedySnakeTest.pdb

@@ -1,0 +1,7 @@
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnakeTests\obj\Debug\Fakes\s\b\System.4.0.0.0.Fakes.xml
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnakeTests\obj\Debug\Fakes\s\b\System.4.0.0.0.Fakes.dll
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnakeTests\obj\Debug\Fakes\s\b\System.4.0.0.0.Fakes.pdb
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnakeTests\obj\Debug\Fakes\s\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnakeTests\obj\Debug\Fakes\s\o\f.csprojResolveAssemblyReference.cache
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnakeTests\obj\Debug\Fakes\s\o\System.4.0.0.0.Fakes.dll
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnakeTests\obj\Debug\Fakes\s\o\System.4.0.0.0.Fakes.pdb

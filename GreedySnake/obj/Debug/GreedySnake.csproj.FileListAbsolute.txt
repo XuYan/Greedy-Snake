@@ -1,0 +1,14 @@
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnake\bin\Debug\GreedySnake.exe
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnake\bin\Debug\GreedySnake.exe.config
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnake\obj\Debug\GreedySnake.GameConsole.resources
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnake\obj\Debug\GreedySnake.Properties.Resources.resources
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnake\obj\Debug\GreedySnake.csproj.GenerateResource.Cache
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnake\obj\Debug\GreedySnake.exe
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnake\obj\Debug\GreedySnake.pdb
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnake\bin\Debug\GreedySnake.pdb
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnake\obj\Debug\GreedySnake.csprojResolveAssemblyReference.cache
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnake\obj\Debug\GreedySnake.GameOverAlert.resources
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnake\obj\Debug\GreedySnake.AboutForm.resources
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnake\obj\Debug\GreedySnake.HowToPlayForm.resources
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnake\obj\Debug\GreedySnake.NewRecordForm.resources
+C:\Users\XuYan\Documents\Visual Studio 2012\Projects\GreedySnake\GreedySnake\obj\Debug\GreedySnake.RecordDisplayForm.resources
